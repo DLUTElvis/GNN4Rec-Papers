@@ -1,5 +1,5 @@
 # Must-read Papers on GNN-based-Recommender System
-GNN: Graph Neural Network
+GNN: Graph Neural Network.
 
 Contributed by Zihan Liao.
 ## [Content](#content)
