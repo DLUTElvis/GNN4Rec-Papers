@@ -10,7 +10,7 @@ Contributed by Zihan Liao (East China Normal University).
     <td>&emsp;<a href="#user-item-bipartite-graph-models">2.1 User-Item Bipartite Graph Models</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Social Graph Enhanced Models">2.2 Social Graph Enhanced Models</a></td>
+    <td>&emsp;<a href="#Social-Graph-Enhanced-Models">2.2 Social Graph Enhanced Models</a></td>
 </tr>
 <tr>
     <td>&emsp;<a href="#models">2.3 Knowledge Graph Enhanced Models</a></td>
