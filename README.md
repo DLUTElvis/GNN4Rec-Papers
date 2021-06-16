@@ -4,10 +4,10 @@ GNN: Graph Neural Network.
 Contributed by Zihan Liao (East China Normal University).
 ## [Content](#content)
 <table>
-<tr><td colspan="1"><a href="#models">1. Survey</a></td></tr>
-<tr><td colspan="1"><a href="#models">2. General Recommendation</a></td></tr>
+<tr><td colspan="1"><a href="#survey">1. Survey</a></td></tr>
+<tr><td colspan="1"><a href="#general-recommendation">2. General Recommendation</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#general-recommendation">2.1 User-Item Bipartite Graph Models</a></td>
+    <td>&emsp;<a href="#user-item-bipartite-graph-models">2.1 User-Item Bipartite Graph Models</a></td>
 </tr>
 <tr>
     <td>&emsp;<a href="#models">2.2 Social Graph Enhanced Models</a></td>
