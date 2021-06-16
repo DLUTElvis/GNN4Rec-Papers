@@ -85,5 +85,3 @@ Contributed by Zihan Liao (East China Normal University).
    
     *Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang.*
 
-
-
