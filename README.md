@@ -13,31 +13,31 @@ Contributed by Zihan Liao (East China Normal University).
     <td>&emsp;<a href="#Social-Graph-Enhanced-Models">2.2 Social Graph Enhanced Models</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#models">2.3 Knowledge Graph Enhanced Models</a></td>
+    <td>&emsp;<a href="#Knowledge-Graph-Enhanced-Models">2.3 Knowledge Graph Enhanced Models</a></td>
 </tr>
-<tr><td colspan="1"><a href="#models">3. Sequential Recommendation</a></td></tr> 
+<tr><td colspan="1"><a href="#Sequential-Recommendation">3. Sequential Recommendation</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#models">3.1 RNN-based Models</a></td>
+    <td>&emsp;<a href="#RNN-based-Models">3.1 modelsRNN-based Models</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#models">3.2 Attention-based Models</a></td>
+    <td>&emsp;<a href="#Attention-based-Models">3.2 Attention-based Models</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#models">3.3 Dynamic GNN-based Models</a></td>
+    <td>&emsp;<a href="#Dynamic-GNN-based-Models">3.3 Dynamic GNN-based Models</a></td>
 </tr>
-<tr><td colspan="1"><a href="#models">4. Diversified Recommendation</a></td></tr>
-<tr><td colspan="1"><a href="#models">5. Related Technology</a></td></tr>
+<tr><td colspan="1"><a href="#Diversified-Recommendation">4. Diversified Recommendation</a></td></tr>
+<tr><td colspan="1"><a href="#Related-Technology">5. Related Technology</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#models">5.1 Matrix Completion</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#models">5.2 Self-Supervised Learning</a></td>
+    <td>&emsp;<a href="#Matrix-Completion">5.1 Matrix Completion</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#models">5.3 Knowledge Distillation</a></td>
+    <td>&emsp;<a href="#Self-Supervised-Learning">5.2 Self-Supervised Learning</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#Knowledge-Distillation">5.3 Knowledge Distillation</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#models">5.4 Hypergraph</a></td>
+    <td>&emsp;<a href="#Hypergraph">5.4 Hypergraph</a></td>
 
 [comment]: <> (<tr>)
 
