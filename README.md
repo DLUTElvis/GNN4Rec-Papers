@@ -69,3 +69,11 @@ Contributed by Zihan Liao (East China Normal University).
 1. **DGCN: Diversified Recommendation with Graph Convolutional Networks.** WWW, 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449835)
 
     *Yu Zheng, Chen Gao, Liang Chen, Depeng Jin, Yong Li.* 
+## [Related Technology](#content)
+### [Matrix Completion](#content)
+### [Self-Supervised Learning](#content)
+1. **Sequence-aware Heterogeneous Graph Neural Collaborative Filtering.** SDM, 2021. [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.8)
+   
+    *Chen Li, Linmei Hu, Chuan Shi, Guojie Song, Yuanfu Lu.*
+### [Knowledge Distillation](#content)
+### [Hypergraph](#content)
