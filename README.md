@@ -74,4 +74,3 @@ Contributed by Zihan Liao (East China Normal University).
 ### [Self-Supervised Learning](#content)
 ### [Knowledge Distillation](#content)
 ### [Hypergraph](#content)
-#test
