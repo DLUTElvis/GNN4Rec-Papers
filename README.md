@@ -84,7 +84,7 @@ Contributed by Zihan Liao (East China Normal University).
    
     *Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang.*
 ## [Application Scenarios](#content)
-### [Social Recommendation]
+### [Social Recommendation](#content)
 1. **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation.** WWW, 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449844) [code](https://github.com/xiaxin1998/DHCN)
    
     *Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang.*
