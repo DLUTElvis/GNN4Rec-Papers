@@ -38,12 +38,11 @@ Contributed by Zihan Liao (East China Normal University).
 </tr> 
 <tr>
     <td>&emsp;<a href="#Hypergraph">5.4 Hypergraph</a></td>
-
-[comment]: <> (<tr>)
-
-[comment]: <> (    <td>&emsp;<a href="#models">5.5 Hypergraph</a></td>)
-
-[comment]: <> (</tr>)
+</tr>
+<tr><td colspan="1"><a href="#Application-Scenarios">6. Application-Scenarios</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#Social-Recommendation">6.1 Social Recommendation</a></td>
+</tr>
 </table>
 
 ## [Survey](#content)
