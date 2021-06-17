@@ -17,7 +17,7 @@ Contributed by Zihan Liao (East China Normal University).
 </tr>
 <tr><td colspan="1"><a href="#Sequential-Recommendation">3. Sequential Recommendation</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#RNN-based-Models">3.1 modelsRNN-based Models</a></td>
+    <td>&emsp;<a href="#RNN-based-Models">3.1 RNN-based Models</a></td>
 </tr> 
 <tr>
     <td>&emsp;<a href="#Attention-based-Models">3.2 Attention-based Models</a></td>
