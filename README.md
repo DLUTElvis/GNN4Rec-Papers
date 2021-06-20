@@ -1,7 +1,7 @@
 # Must-read Papers on GNN-based-Recommender System
 GNN: Graph Neural Network.
 
-Contributed by Zihan Liao (East China Normal University).
+Contributed by Zihan Liao (AIDA, East China Normal University).
 ## [Content](#content)
 <table>
 <tr><td colspan="1"><a href="#survey">1. Survey</a></td></tr>
