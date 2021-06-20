@@ -77,7 +77,13 @@ Contributed by Zihan Liao (East China Normal University).
     *Zhi Zheng, Chao Wang, Dazhong Shen, Baoxing Huai, Tongzhu Liu, Enhong Chen.*
 ## [Sequential Recommendation](#content)
 ### [RNN-based Models](#content)
+1. **Dynamic Memory based Attention Network for Sequential Recommendation.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16564)
+   
+    *Qiaoyu Tan, Jianwei Zhang, Ninghao Liu, Xiao Huang, Hongxia Yang, Jingren Zhou, Xia Hu.*
 ### [Attention-based Models](#content)
+1. **Dynamic Memory based Attention Network for Sequential Recommendation.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16564)
+   
+    *Qiaoyu Tan, Jianwei Zhang, Ninghao Liu, Xiao Huang, Hongxia Yang, Jingren Zhou, Xia Hu.*
 1. **Sequence-aware Heterogeneous Graph Neural Collaborative Filtering.** SDM, 2021. [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.8)
    
     *Chen Li, Linmei Hu, Chuan Shi, Guojie Song, Yuanfu Lu.*
