@@ -25,32 +25,31 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 <tr>
     <td>&emsp;<a href="#Dynamic-GNN-based-Models">3.3 Dynamic GNN-based Models</a></td>
 </tr>
-<tr><td colspan="1"><a href="#Diversified-Recommendation">4. Diversified Recommendation</a></td></tr>
-<tr><td colspan="1"><a href="#Related-Technology">5. Related Technology</a></td></tr>
+<tr><td colspan="1"><a href="#Related-Technology">4. Related Technology</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#Matrix-Completion">5.1 Matrix Completion</a></td>
+    <td>&emsp;<a href="#Matrix-Completion">4.1 Matrix Completion</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Self-Supervised-Learning">5.2 Self-Supervised Learning</a></td>
+    <td>&emsp;<a href="#Self-Supervised-Learning">4.2 Self-Supervised Learning</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Knowledge-Distillation">5.3 Knowledge Distillation</a></td>
+    <td>&emsp;<a href="#Knowledge-Distillation">4.3 Knowledge Distillation</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#Hypergraph">5.4 Hypergraph</a></td>
+    <td>&emsp;<a href="#Hypergraph">4.4 Hypergraph</a></td>
 </tr>
-<tr><td colspan="1"><a href="#Application-Scenarios">6. Application-Scenarios</a></td></tr>
+<tr><td colspan="1"><a href="#Application-Scenarios">5. Application-Scenarios</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#Social-Recommendation">6.1 Social Recommendation</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#Package-Recommendation">6.2 Package Recommendation</a></td>
+    <td>&emsp;<a href="#Social-Recommendation">5.1 Social Recommendation</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Attack-in-Recommendation">6.3 Attack in Recommendation</a></td>
+    <td>&emsp;<a href="#Package-Recommendation">5.2 Package Recommendation</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Diversified-Recommendation">6.4 Diversified Recommendation</a></td>
+    <td>&emsp;<a href="#Attack-in-Recommendation">5.3 Attack in Recommendation</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#Diversified-Recommendation">5.4 Diversified Recommendation</a></td>
 </tr>
 </table>
 
