@@ -61,13 +61,13 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 
 ## [General Recommendation](#content)
 ### [User-Item Bipartite Graph Models](#content)
-1. **DGCN: Diversified Recommendation with Graph Convolutional Networks.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449835) [code](https://github.com/tsinghua-fib-lab/DGCN.)
+1. **DGCN: Diversified Recommendation with Graph Convolutional Networks.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449835) [code](https://github.com/tsinghua-fib-lab/DGCN)
    
     *Yu Zheng, Chen Gao, Liang Chen, Depeng Jin, Yong Li.*
 1. **Graph Embedding for Recommendation against Attribute Inference Attacks.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449813)
    
     *Shijie Zhang, Hongzhi Yin, Tong Chen, Zi Huang, Lizhen Cui, Xiangliang Zhang.*
-1. **HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3450101) [code](https://github.com/layer6ai-labs/HGCF.)
+1. **HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3450101) [code](https://github.com/layer6ai-labs/HGCF)
    
     *Jianing Sun, Zhaoyue Cheng, Saba Zuberi, Felipe Pérez, Maksims Volkovs.*
 1. **GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems.** CIKM, 2020. [paper](https://dl.acm.org/doi/10.1145/3340531.3412754)
@@ -139,6 +139,6 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
    
     *Shijie Zhang, Hongzhi Yin, Tong Chen, Zi Huang, Lizhen Cui, Xiangliang Zhang.*
 ### [Diversified Recommendation](#content)
-1. **DGCN: Diversified Recommendation with Graph Convolutional Networks.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449835) [code](https://github.com/tsinghua-fib-lab/DGCN.)
+1. **DGCN: Diversified Recommendation with Graph Convolutional Networks.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449835) [code](https://github.com/tsinghua-fib-lab/DGCN)
    
     *Yu Zheng, Chen Gao, Liang Chen, Depeng Jin, Yong Li.*
