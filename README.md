@@ -100,10 +100,6 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
    
     *Chen Li, Linmei Hu, Chuan Shi, Guojie Song, Yuanfu Lu.*
 ### [Dynamic GNN-based Models](#content)
-## [Diversified Recommendation](#content)
-1. **DGCN: Diversified Recommendation with Graph Convolutional Networks.** WWW, 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449835)
-
-    *Yu Zheng, Chen Gao, Liang Chen, Depeng Jin, Yong Li.* 
 ## [Related Technology](#content)
 ### [Matrix Completion](#content)
 ### [Self-Supervised Learning](#content)
