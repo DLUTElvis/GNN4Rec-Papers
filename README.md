@@ -72,6 +72,12 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems.** CIKM, 2020. [paper](https://dl.acm.org/doi/10.1145/3340531.3412754)
    
     *Yishi Xu, Yingxue Zhang, Wei Guo, Huifeng Guo, Ruiming Tang, Mark Coates.*
+1. **MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks.** KDD, 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403293)
+   
+    *Carl Yang, Aditya Pal, Andrew Zhai, Nikil Pancha, Jiawei Han, Charles Rosenberg, Jure Leskovec.*
+1. **Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters.** KDD, 2020. [paper](http://proceedings.mlr.press/v119/yu20e/yu20e.pdf) [code](https://github.com/Wenhui-Yu/LCFN)
+   
+    *Wenhui Yu, Zheng Qin.*   
 1. **Binarized Collaborative Filtering with Distilling Graph Convolutional Networks.** IJCAI, 2019. [paper](https://arxiv.org/pdf/1906.01829.pdf)
    
     *Haoyu Wang, Defu Lian, Yong Ge.*
@@ -82,6 +88,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation.** WWW, 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449844) [code](https://github.com/Coder-Yu/RecQ)
    
     *Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang.*
+1. **DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation.** TKDE, 2020. [paper](https://arxiv.org/pdf/2002.00844.pdf) [code](https://github.com/PeiJieSun/diffnet)
+   
+    *Le Wu, Junwei Li, Peijie Sun, Richang Hong, Yong Ge, Meng Wang.*
 ### [Knowledge Graph Enhanced Models](#content)
 1. **Drug Package Recommendation via Interaction-aware Graph Induction.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449962)
    
@@ -91,6 +100,12 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Dynamic Memory based Attention Network for Sequential Recommendation.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16564)
    
     *Qiaoyu Tan, Jianwei Zhang, Ninghao Liu, Xiao Huang, Hongxia Yang, Jingren Zhou, Xia Hu.*
+1. **Handling Information Loss of Graph Neural Networks for Session-based Recommendation.** KDD, 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403170) [code](https://github.com/twchen/lessr)
+   
+    *Tianwen Chen, Raymond Chi-Wing Wong.*
+1. **Session-Based Recommendation with Graph Neural Networks.** AAAI, 2019. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/3804) [code](https://github.com/CRIPAC-DIG/SR-GNN)
+   
+    *Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan.*
 ### [Attention-based Models](#content)
 1. **Dynamic Memory based Attention Network for Sequential Recommendation.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16564)
    
@@ -102,10 +117,12 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 ## [Related Technology](#content)
 ### [Matrix Completion](#content)
 ### [Self-Supervised Learning](#content)
+1. **Self-Supervised Learning on Graphs: Deep Insights and New Directions.** arXiv, 2021. [paper](https://arxiv.org/pdf/2006.10141.pdf)
+   
+    *Wei Jin, Tyler Derr, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu, Jiliang Tang.*
 1. **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation.** WWW, 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449844) [code](https://github.com/xiaxin1998/DHCN)
    
     *Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang.*
-
 ### [Knowledge Distillation](#content)
 1. **GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems.** CIKM, 2020. [paper](https://dl.acm.org/doi/10.1145/3340531.3412754)
    
