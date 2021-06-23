@@ -87,6 +87,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph.** KDD, 2020. [paper](https://arxiv.org/pdf/2007.00216.pdf) [code](https://github.com/Jinjiarui/GraphHINGE)
    
     *Jiarui Jin, Jiarui Qin, Yuchen Fang, Kounianhua Du, Weinan Zhang, Yong Yu, Zheng Zhang, Alexander J. Smola.*
+1. **Distilling Structured Knowledge into Embeddings for Explainable and Accurate Recommendation.** WSDM, 2020. [paper](https://arxiv.org/pdf/1912.08422.pdf) [code](https://github.com/yuan-pku/Distilling-Structured-Knowledge-into-Embeddings-for-Explainable-and-Accurate-Recommendation)
+   
+    *Yuan Zhang, Xiaoran Xu, Hanning Zhou, Yan Zhang*
 1. **Binarized Collaborative Filtering with Distilling Graph Convolutional Networks.** IJCAI, 2019. [paper](https://arxiv.org/pdf/1906.01829.pdf)
    
     *Haoyu Wang, Defu Lian, Yong Ge.*
@@ -129,6 +132,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph.** KDD, 2020. [paper](https://arxiv.org/pdf/2007.00216.pdf) [code](https://github.com/Jinjiarui/GraphHINGE)
    
     *Jiarui Jin, Jiarui Qin, Yuchen Fang, Kounianhua Du, Weinan Zhang, Yong Yu, Zheng Zhang, Alexander J. Smola.*
+1. **Distilling Structured Knowledge into Embeddings for Explainable and Accurate Recommendation.** WSDM, 2020. [paper](https://arxiv.org/pdf/1912.08422.pdf) [code](https://github.com/yuan-pku/Distilling-Structured-Knowledge-into-Embeddings-for-Explainable-and-Accurate-Recommendation)
+   
+    *Yuan Zhang, Xiaoran Xu, Hanning Zhou, Yan Zhang*
 ### [Self-Supervised Learning](#content)
 1. **Self-Supervised Learning on Graphs: Deep Insights and New Directions.** arXiv, 2021. [paper](https://arxiv.org/pdf/2006.10141.pdf)
    
@@ -143,6 +149,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems.** CIKM, 2020. [paper](https://dl.acm.org/doi/10.1145/3340531.3412754)
    
     *Yishi Xu, Yingxue Zhang, Wei Guo, Huifeng Guo, Ruiming Tang, Mark Coates.*
+1. **Distilling Structured Knowledge into Embeddings for Explainable and Accurate Recommendation.** WSDM, 2020. [paper](https://arxiv.org/pdf/1912.08422.pdf) [code](https://github.com/yuan-pku/Distilling-Structured-Knowledge-into-Embeddings-for-Explainable-and-Accurate-Recommendation)
+   
+    *Yuan Zhang, Xiaoran Xu, Hanning Zhou, Yan Zhang*   
 1. **Knowledge Distillation via Instance Relationship Graph.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf)
    
     *Yufan Liu, Jiajiong Cao, Bing Li, Chunfeng Yuan, Weiming Hu, Yangxi Li, Yunqiang Duan.*
