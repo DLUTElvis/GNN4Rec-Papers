@@ -30,13 +30,16 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
     <td>&emsp;<a href="#Matrix-Completion">4.1 Matrix Completion</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Self-Supervised-Learning">4.2 Self-Supervised Learning</a></td>
+    <td>&emsp;<a href="#Random-Walk">4.2 Random Walk</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Knowledge-Distillation">4.3 Knowledge Distillation</a></td>
+    <td>&emsp;<a href="#Self-Supervised-Learning">4.3 Self-Supervised Learning</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#Knowledge-Distillation">4.4 Knowledge Distillation</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#Hypergraph">4.4 Hypergraph</a></td>
+    <td>&emsp;<a href="#Hypergraph">4.5 Hypergraph</a></td>
 </tr>
 <tr><td colspan="1"><a href="#Application-Scenarios">5. Application-Scenarios</a></td></tr>
 <tr>
@@ -60,6 +63,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 
 ## [General Recommendation](#content)
 ### [User-Item Bipartite Graph Models](#content)
+1. **Self-supervised Graph Learning for Recommendation.** SIGIR, 2021. [paper](https://arxiv.org/pdf/2010.10783.pdf) [code](https://github.com/wujcan/SGL)
+   
+    *Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, Xing Xie.*
 1. **DGCN: Diversified Recommendation with Graph Convolutional Networks.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449835) [code](https://github.com/tsinghua-fib-lab/DGCN)
    
     *Yu Zheng, Chen Gao, Liang Chen, Depeng Jin, Yong Li.*
@@ -77,7 +83,10 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
     *Carl Yang, Aditya Pal, Andrew Zhai, Nikil Pancha, Jiawei Han, Charles Rosenberg, Jure Leskovec.*
 1. **Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters.** KDD, 2020. [paper](http://proceedings.mlr.press/v119/yu20e/yu20e.pdf) [code](https://github.com/Wenhui-Yu/LCFN)
    
-    *Wenhui Yu, Zheng Qin.*   
+    *Wenhui Yu, Zheng Qin.*
+1. **An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph.** KDD, 2020. [paper](https://arxiv.org/pdf/2007.00216.pdf) [code](https://github.com/Jinjiarui/GraphHINGE)
+   
+    *Jiarui Jin, Jiarui Qin, Yuchen Fang, Kounianhua Du, Weinan Zhang, Yong Yu, Zheng Zhang, Alexander J. Smola.*
 1. **Binarized Collaborative Filtering with Distilling Graph Convolutional Networks.** IJCAI, 2019. [paper](https://arxiv.org/pdf/1906.01829.pdf)
    
     *Haoyu Wang, Defu Lian, Yong Ge.*
@@ -116,10 +125,17 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 ### [Dynamic GNN-based Models](#content)
 ## [Related Technology](#content)
 ### [Matrix Completion](#content)
+### [Random Walk](#content)
+1. **An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph.** KDD, 2020. [paper](https://arxiv.org/pdf/2007.00216.pdf) [code](https://github.com/Jinjiarui/GraphHINGE)
+   
+    *Jiarui Jin, Jiarui Qin, Yuchen Fang, Kounianhua Du, Weinan Zhang, Yong Yu, Zheng Zhang, Alexander J. Smola.*
 ### [Self-Supervised Learning](#content)
 1. **Self-Supervised Learning on Graphs: Deep Insights and New Directions.** arXiv, 2021. [paper](https://arxiv.org/pdf/2006.10141.pdf)
    
     *Wei Jin, Tyler Derr, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu, Jiliang Tang.*
+1. **Self-supervised Graph Learning for Recommendation.** SIGIR, 2021. [paper](https://arxiv.org/pdf/2010.10783.pdf) [code](https://github.com/wujcan/SGL)
+   
+    *Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, Xing Xie.*   
 1. **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation.** WWW, 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449844) [code](https://github.com/xiaxin1998/DHCN)
    
     *Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang.*
