@@ -87,6 +87,15 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph.** KDD, 2020. [paper](https://arxiv.org/pdf/2007.00216.pdf) [code](https://github.com/Jinjiarui/GraphHINGE)
    
     *Jiarui Jin, Jiarui Qin, Yuchen Fang, Kounianhua Du, Weinan Zhang, Yong Yu, Zheng Zhang, Alexander J. Smola.*
+1. **M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems.** KDD, 2020. [paper](https://arxiv.org/pdf/2005.10110.pdf) [code](https://github.com/99731/M2GRL)
+   
+    *Menghan Wang, Yujie Lin, Guli Lin, Keping Yang, Xiao-Ming Wu.*   
+1. **Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps.** KDD, 2020. [paper](https://arxiv.org/pdf/2006.06427.pdf) [code](https://github.com/tangxianfeng/FATE)
+   
+    *Xianfeng Tang, Yozen Liu, Neil Shah, Xiaolin Shi, Prasenjit Mitra, Suhang Wang.*   
+1. **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation.** SIGIR, 2020. [paper](https://arxiv.org/pdf/2002.02126.pdf) [code](https://github.com/gusye1234/LightGCN-PyTorch)
+   
+    *Xiangnan He, Kuan Deng, Xiang Wang, Yan Li, Yong-Dong Zhang, Meng Wang*   
 1. **Distilling Structured Knowledge into Embeddings for Explainable and Accurate Recommendation.** WSDM, 2020. [paper](https://arxiv.org/pdf/1912.08422.pdf) [code](https://github.com/yuan-pku/Distilling-Structured-Knowledge-into-Embeddings-for-Explainable-and-Accurate-Recommendation)
    
     *Yuan Zhang, Xiaoran Xu, Hanning Zhou, Yan Zhang*
@@ -103,10 +112,25 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation.** TKDE, 2020. [paper](https://arxiv.org/pdf/2002.00844.pdf) [code](https://github.com/PeiJieSun/diffnet)
    
     *Le Wu, Junwei Li, Peijie Sun, Richang Hong, Yong Ge, Meng Wang.*
+1. **paper2repo: GitHub Repository Recommendation for Academic Papers.** WWW, 2020. [paper](https://arxiv.org/pdf/2004.06059.pdf) [code](https://github.com/hrukalive/WWW2020_paper2repo)
+   
+    *Huajie Shao, Dachun Sun, Jiahao Wu, Zecheng Zhang, Aston Zhang, Shuochao Yao, Shengzhong Liu, Tianshi Wang, Chao Zhang, Tarek F. Abdelzaher.*
+1. **Graph Enhanced Representation Learning for News Recommendation.** WWW, 2020. [paper](https://arxiv.org/pdf/2003.14292.pdf)
+   
+    *Suyu Ge, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.*
 ### [Knowledge Graph Enhanced Models](#content)
 1. **Drug Package Recommendation via Interaction-aware Graph Induction.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449962)
    
     *Zhi Zheng, Chao Wang, Dazhong Shen, Baoxing Huai, Tongzhu Liu, Enhong Chen.*
+1. **Multi-behavior Recommendation with Graph Convolutional Networks.** SIGIR, 2020. [paper](https://dl.acm.org/doi/10.1145/3397271.3401072)
+   
+    *Bowen Jin, Chen Gao, Xiangnan He, Depeng Jin, Yong Li.*   
+1. **paper2repo: GitHub Repository Recommendation for Academic Papers.** WWW, 2020. [paper](https://arxiv.org/pdf/2004.06059.pdf) [code](https://github.com/hrukalive/WWW2020_paper2repo)
+   
+    *Huajie Shao, Dachun Sun, Jiahao Wu, Zecheng Zhang, Aston Zhang, Shuochao Yao, Shengzhong Liu, Tianshi Wang, Chao Zhang, Tarek F. Abdelzaher.*
+1. **Graph Enhanced Representation Learning for News Recommendation.** WWW, 2020. [paper](https://arxiv.org/pdf/2003.14292.pdf)
+   
+    *Suyu Ge, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.*
 ## [Sequential Recommendation](#content)
 ### [RNN-based Models](#content)
 1. **Dynamic Memory based Attention Network for Sequential Recommendation.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16564)
@@ -115,6 +139,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Handling Information Loss of Graph Neural Networks for Session-based Recommendation.** KDD, 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403170) [code](https://github.com/twchen/lessr)
    
     *Tianwen Chen, Raymond Chi-Wing Wong.*
+1. **Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors.** KDD, 2020. [paper](https://arxiv.org/pdf/2006.06820.pdf) [code](https://github.com/DM2-ND/CalendarGNN)
+   
+    *Daheng Wang, Meng Jiang, Munira Syed, Oliver Conway, Vishal Juneja, Sriram Subramanian, Nitesh V. Chawla.*   
 1. **Session-Based Recommendation with Graph Neural Networks.** AAAI, 2019. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/3804) [code](https://github.com/CRIPAC-DIG/SR-GNN)
    
     *Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan.*
