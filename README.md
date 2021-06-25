@@ -15,6 +15,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 <tr>
     <td>&emsp;<a href="#Knowledge-Graph-Enhanced-Models">2.3 Knowledge Graph Enhanced Models</a></td>
 </tr>
+<tr>
+    <td>&emsp;<a href="#Others">2.4 Others</a></td>
+</tr>
 <tr><td colspan="1"><a href="#Sequential-Recommendation">3. Sequential Recommendation</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#RNN-based-Models">3.1 RNN-based Models</a></td>
@@ -53,6 +56,12 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 </tr>
 <tr>
     <td>&emsp;<a href="#Diversified-Recommendation">5.4 Diversified Recommendation</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#Hashtag-Recommendation">5.5 Hashtag Recommendation</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#CTR-Prediction">5.6 CTR Prediction</a></td>
 </tr>
 </table>
 
@@ -99,6 +108,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Distilling Structured Knowledge into Embeddings for Explainable and Accurate Recommendation.** WSDM, 2020. [paper](https://arxiv.org/pdf/1912.08422.pdf) [code](https://github.com/yuan-pku/Distilling-Structured-Knowledge-into-Embeddings-for-Explainable-and-Accurate-Recommendation)
    
     *Yuan Zhang, Xiaoran Xu, Hanning Zhou, Yan Zhang*
+1. **Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network.**  EMNLP/IJCNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1494.pdf) [code](https://github.com/wuch15/Reviews-Meet-Graphs)
+   
+    *Chuhan Wu, Fangzhao Wu, Tao Qi, Suyu Ge, Yongfeng Huang, Xing Xie.*   
 1. **Binarized Collaborative Filtering with Distilling Graph Convolutional Networks.** IJCAI, 2019. [paper](https://arxiv.org/pdf/1906.01829.pdf)
    
     *Haoyu Wang, Defu Lian, Yong Ge.*
@@ -131,6 +143,13 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Graph Enhanced Representation Learning for News Recommendation.** WWW, 2020. [paper](https://arxiv.org/pdf/2003.14292.pdf)
    
     *Suyu Ge, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.*
+1. **Long-tail Hashtag Recommendation for Micro-videos with Graph Convolutional Network.** CIKM, 2019. [paper](https://dl.acm.org/doi/10.1145/3357384.3357912)
+   
+    *Mengmeng Li, Tian Gan, Meng Liu, Zhiyong Cheng, Jianhua Yin, Liqiang Nie.*
+### [Others](#content)
+1. **Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction.** CIKM, 2019. [paper](https://arxiv.org/pdf/1910.05552.pdf) [code](https://github.com/CRIPAC-DIG/Fi_GNN)
+
+    *Zekun Li, Zeyu Cui, Shu Wu, Xiaoyu Zhang, Liang Wang.* 
 ## [Sequential Recommendation](#content)
 ### [RNN-based Models](#content)
 1. **Dynamic Memory based Attention Network for Sequential Recommendation.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16564)
@@ -206,3 +225,11 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **DGCN: Diversified Recommendation with Graph Convolutional Networks.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449835) [code](https://github.com/tsinghua-fib-lab/DGCN)
    
     *Yu Zheng, Chen Gao, Liang Chen, Depeng Jin, Yong Li.*
+### [Hashtag Recommendation](#content)
+1. **Long-tail Hashtag Recommendation for Micro-videos with Graph Convolutional Network.** CIKM, 2019. [paper](https://dl.acm.org/doi/10.1145/3357384.3357912)
+   
+    *Mengmeng Li, Tian Gan, Meng Liu, Zhiyong Cheng, Jianhua Yin, Liqiang Nie.*
+### [CTR Prediction](#content)
+1. **Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction.** CIKM, 2019. [paper](https://arxiv.org/pdf/1910.05552.pdf) [code](https://github.com/CRIPAC-DIG/Fi_GNN)
+
+    *Zekun Li, Zeyu Cui, Shu Wu, Xiaoyu Zhang, Liang Wang.* 
