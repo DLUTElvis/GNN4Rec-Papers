@@ -44,6 +44,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 <tr>
     <td>&emsp;<a href="#Hypergraph">4.5 Hypergraph</a></td>
 </tr>
+<tr>
+    <td>&emsp;<a href="#Variational-Inference">4.6 Variational Inference</a></td>
+</tr>
 <tr><td colspan="1"><a href="#Application-Scenarios">5. Application-Scenarios</a></td></tr>
 <tr>
     <td>&emsp;<a href="#Social-Recommendation">5.1 Social Recommendation</a></td>
@@ -130,6 +133,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Graph Enhanced Representation Learning for News Recommendation.** WWW, 2020. [paper](https://arxiv.org/pdf/2003.14292.pdf)
    
     *Suyu Ge, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.*
+1. **Multi-Graph Convolution Collaborative Filtering.** ICDM, 2019. [paper](https://arxiv.org/pdf/2001.00267.pdf)
+   
+    *Jianing Sun, Yingxue Zhang, Chen Ma, Mark Coates, Huifeng Guo, Ruiming Tang, Xiuqiang He.*
 ### [Knowledge Graph Enhanced Models](#content)
 1. **Drug Package Recommendation via Interaction-aware Graph Induction.** WWW, 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449962)
    
@@ -146,6 +152,12 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Long-tail Hashtag Recommendation for Micro-videos with Graph Convolutional Network.** CIKM, 2019. [paper](https://dl.acm.org/doi/10.1145/3357384.3357912)
    
     *Mengmeng Li, Tian Gan, Meng Liu, Zhiyong Cheng, Jianhua Yin, Liqiang Nie.*
+1. **Bayes EMbedding (BEM): Refining Representation by Integrating Knowledge Graphs and Behavior-specific Networks.** CIKM, 2019. [paper](https://arxiv.org/pdf/1908.10611.pdf)
+   
+    *Yuting Ye, Xuwu Wang, Jiangchao Yao, Kunyang Jia, Jingren Zhou, Yanghua Xiao, Hongxia Yang.*
+1. **Multi-Graph Convolution Collaborative Filtering.** ICDM, 2019. [paper](https://arxiv.org/pdf/2001.00267.pdf)
+   
+    *Jianing Sun, Yingxue Zhang, Chen Ma, Mark Coates, Huifeng Guo, Ruiming Tang, Xiuqiang He.*
 ### [Others](#content)
 1. **Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction.** CIKM, 2019. [paper](https://arxiv.org/pdf/1910.05552.pdf) [code](https://github.com/CRIPAC-DIG/Fi_GNN)
 
@@ -164,6 +176,10 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Session-Based Recommendation with Graph Neural Networks.** AAAI, 2019. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/3804) [code](https://github.com/CRIPAC-DIG/SR-GNN)
    
     *Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan.*
+1. **Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks.** CIKM, 2019. [paper](https://arxiv.org/pdf/1911.11942.pdf) [code](https://github.com/RuihongQiu/FGNN)
+   
+    *Ruihong Qiu, Jingjing Li, Zi Huang, Hongzhi Yin.*
+
 ### [Attention-based Models](#content)
 1. **Dynamic Memory based Attention Network for Sequential Recommendation.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16564)
    
@@ -208,6 +224,10 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation.** WWW, 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449844) [code](https://github.com/Coder-Yu/RecQ)
    
     *Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang.*
+### [Variational Inference](#content)
+1. **Bayes EMbedding (BEM): Refining Representation by Integrating Knowledge Graphs and Behavior-specific Networks.** CIKM, 2019. [paper](https://arxiv.org/pdf/1908.10611.pdf)
+   
+    *Yuting Ye, Xuwu Wang, Jiangchao Yao, Kunyang Jia, Jingren Zhou, Yanghua Xiao, Hongxia Yang.*
 ## [Application Scenarios](#content)
 ### [Social Recommendation](#content)
 1. **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation.** WWW, 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449844) [code](https://github.com/Coder-Yu/RecQ.)
