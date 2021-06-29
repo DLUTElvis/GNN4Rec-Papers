@@ -90,6 +90,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Multi-Component Graph Convolutional Collaborative Filtering.** AAAI, 2020. [paper](https://arxiv.org/pdf/1911.10699.pdf) [code](https://github.com/RuijiaW/Multi-Component-Graph-Convolutional-Collaborative-Filtering)
    
     *Xiao Wang, Ruijia Wang, Chuan Shi, Guojie Song, Qingyong Li.*
+1. **Revisiting Graph Based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach.** AAAI, 2020. [paper](https://arxiv.org/pdf/2001.10167.pdf) [code](https://github.com/newlei/LR-GCCF)
+   
+    *Lei Chen, Le Wu, Richang Hong, Kun Zhang, Meng Wang.*
 1. **GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems.** CIKM, 2020. [paper](https://dl.acm.org/doi/10.1145/3340531.3412754)
    
     *Yishi Xu, Yingxue Zhang, Wei Guo, Huifeng Guo, Ruiming Tang, Mark Coates.*
