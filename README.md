@@ -196,6 +196,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **Sequence-aware Heterogeneous Graph Neural Collaborative Filtering.** SDM, 2021. [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.8)
    
     *Chen Li, Linmei Hu, Chuan Shi, Guojie Song, Yuanfu Lu.*
+1. **Memory Augmented Graph Neural Networks for Sequential Recommendation.** AAAI, 2020. [paper](https://arxiv.org/pdf/1912.11730.pdf)
+   
+    *Chen Ma, Liheng Ma, Yingxue Zhang, Jianing Sun, Xue Liu, Mark Coates.*
 ### [Dynamic GNN-based Models](#content)
 ## [Related Technology](#content)
 ### [Matrix Completion](#content)
