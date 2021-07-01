@@ -96,6 +96,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems.** CIKM, 2020. [paper](https://dl.acm.org/doi/10.1145/3340531.3412754)
    
     *Yishi Xu, Yingxue Zhang, Wei Guo, Huifeng Guo, Ruiming Tang, Mark Coates.*
+1. **Inductive Matrix Completion Based on Graph Neural Networks.** ICLR, 2020. [paper](https://openreview.net/pdf?id=ByxxgCEYDS) [code](https://github.com/muhanzhang/IGMC)
+   
+    *Muhan Zhang, Yixin Chen.*   
 1. **MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks.** KDD, 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403293)
    
     *Carl Yang, Aditya Pal, Andrew Zhai, Nikil Pancha, Jiawei Han, Charles Rosenberg, Jure Leskovec.*
@@ -202,6 +205,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 ### [Dynamic GNN-based Models](#content)
 ## [Related Technology](#content)
 ### [Matrix Completion](#content)
+1. **Inductive Matrix Completion Based on Graph Neural Networks.** ICLR, 2020. [paper](https://openreview.net/pdf?id=ByxxgCEYDS) [code](https://github.com/muhanzhang/IGMC)
+   
+    *Muhan Zhang, Yixin Chen.* 
 ### [Random Walk](#content)
 1. **An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph.** KDD, 2020. [paper](https://arxiv.org/pdf/2007.00216.pdf) [code](https://github.com/Jinjiarui/GraphHINGE)
    
