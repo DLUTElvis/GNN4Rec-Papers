@@ -139,6 +139,9 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
 1. **DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation.** TKDE, 2020. [paper](https://arxiv.org/pdf/2002.00844.pdf) [code](https://github.com/PeiJieSun/diffnet)
    
     *Le Wu, Junwei Li, Peijie Sun, Richang Hong, Yong Ge, Meng Wang.*
+1. **Modelling High-Order Social Relations for Item Recommendation.** TKDE, 2020. [paper](https://arxiv.org/pdf/2003.10149.pdf)
+   
+    *Yang Liu, Liang Chen, Xiangnan He, Jiaying Peng, Zibin Zheng, Jie Tang.*
 1. **paper2repo: GitHub Repository Recommendation for Academic Papers.** WWW, 2020. [paper](https://arxiv.org/pdf/2004.06059.pdf) [code](https://github.com/hrukalive/WWW2020_paper2repo)
    
     *Huajie Shao, Dachun Sun, Jiahao Wu, Zecheng Zhang, Aston Zhang, Shuochao Yao, Shengzhong Liu, Tianshi Wang, Chao Zhang, Tarek F. Abdelzaher.*
@@ -154,7 +157,10 @@ Contributed by Zihan Liao (AIDA, East China Normal University).
     *Zhi Zheng, Chao Wang, Dazhong Shen, Baoxing Huai, Tongzhu Liu, Enhong Chen.*
 1. **Multi-behavior Recommendation with Graph Convolutional Networks.** SIGIR, 2020. [paper](https://dl.acm.org/doi/10.1145/3397271.3401072)
    
-    *Bowen Jin, Chen Gao, Xiangnan He, Depeng Jin, Yong Li.*   
+    *Bowen Jin, Chen Gao, Xiangnan He, Depeng Jin, Yong Li.*
+1. **A2-GCN: An Attribute-aware Attentive GCN Model for Recommendation.** TKDE, 2020. [paper](https://arxiv.org/pdf/2003.09086.pdf) [code](https://github.com/liufancs/a2_gcn)
+   
+    *Fan Liu; Zhiyong Cheng; Lei Zhu; Chenghao Liu; Liqiang Nie.*   
 1. **paper2repo: GitHub Repository Recommendation for Academic Papers.** WWW, 2020. [paper](https://arxiv.org/pdf/2004.06059.pdf) [code](https://github.com/hrukalive/WWW2020_paper2repo)
    
     *Huajie Shao, Dachun Sun, Jiahao Wu, Zecheng Zhang, Aston Zhang, Shuochao Yao, Shengzhong Liu, Tianshi Wang, Chao Zhang, Tarek F. Abdelzaher.*
